@@ -32,13 +32,13 @@ A recreation of the Sigma16 IDE and emulator originally implemented by [John O'D
 
 <img align="left" alt="QuestioWo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=QuestioWo&show_icons=true&hide_border=true" />
 
-[website]: https://questiowo.github.io
-[sigma17]: https://questiowo.github.io/Sigma17
-[ugracing]: https://ugracing.co.uk
-[github]: https://www.guthub.com/QuestioWo
-[linkedin]: https://www.linkedin.com/in/jim-carty-5950261b4
-
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ## Connect with me :
 
@@ -49,3 +49,9 @@ A recreation of the Sigma16 IDE and emulator originally implemented by [John O'D
 <br />
 
 Email : cartyjim1@gmail.com
+
+[website]: https://questiowo.github.io
+[sigma17]: https://questiowo.github.io/Sigma17
+[ugracing]: https://ugracing.co.uk
+[github]: https://www.guthub.com/QuestioWo
+[linkedin]: https://www.linkedin.com/in/jim-carty-5950261b4
