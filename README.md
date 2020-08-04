@@ -16,7 +16,10 @@ A recreation of the Sigma16 IDE and emulator originally implemented by [John O'D
 
 [<img align="left" alt="questiowo.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Jim Carty | LinkedIn" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/951a0d011f8c832991750c16136f8e260efa60b5/svgs/brands/linkedin.svg" />][linkedin]
-[<img align="left" alt="cartyjim1@gmail.com | Email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][email]
+
+<br />
+
+<img align="left" alt="cartyjim1@gmail.com | Email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />**-> cartyjim1@gmail.com**
 
 <br />
 
@@ -44,4 +47,3 @@ A recreation of the Sigma16 IDE and emulator originally implemented by [John O'D
 [sigma17]: https://questiowo.github.io/Sigma17
 [ugracing]: https://ugracing.co.uk
 [linkedin]: https://www.linkedin.com/in/jim-carty-5950261b4
-[email]: cartyjim1@gmail.com
