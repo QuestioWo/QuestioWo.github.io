@@ -16,6 +16,7 @@ A recreation of the Sigma16 IDE and emulator originally implemented by [John O'D
 
 [<img align="left" alt="questiowo.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Jim Carty | LinkedIn" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/951a0d011f8c832991750c16136f8e260efa60b5/svgs/brands/linkedin.svg" />][linkedin]
+[<img align="left" alt="QuestioWo | GitHub" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/951a0d011f8c832991750c16136f8e260efa60b5/svgs/brands/github.svg" />][github]
 
 <br />
 <br />
@@ -45,4 +46,5 @@ Email : cartyjim1@gmail.com
 [website]: https://questiowo.github.io
 [sigma17]: https://questiowo.github.io/Sigma17
 [ugracing]: https://ugracing.co.uk
+[github]: https://www.guthub.com/QuestioWo
 [linkedin]: https://www.linkedin.com/in/jim-carty-5950261b4
