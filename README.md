@@ -47,8 +47,10 @@ A recreation of the Sigma16 IDE and emulator originally implemented by [John O'D
 [<img align="left" alt="QuestioWo | GitHub" width="50px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/951a0d011f8c832991750c16136f8e260efa60b5/svgs/brands/github.svg" />][github]
 
 <br />
+<br />
+<br />
 
-Email : cartyjim1@gmail.com
+cartyjim1@gmail.com
 
 [website]: https://questiowo.github.io
 [sigma17]: https://questiowo.github.io/Sigma17
