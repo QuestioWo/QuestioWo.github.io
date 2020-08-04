@@ -44,4 +44,4 @@ A recreation of the Sigma16 IDE and emulator originally implemented by [John O'D
 [sigma17]: https://questiowo.github.io/Sigma17
 [ugracing]: https://ugracing.co.uk
 [linkedin]: https://www.linkedin.com/in/jim-carty-5950261b4
-[email]: mailto:cartyjim1@gmail.com
+[email]: cartyjim1@gmail.com
