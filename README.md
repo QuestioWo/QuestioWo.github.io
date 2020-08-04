@@ -18,8 +18,9 @@ A recreation of the Sigma16 IDE and emulator originally implemented by [John O'D
 [<img align="left" alt="Jim Carty | LinkedIn" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/951a0d011f8c832991750c16136f8e260efa60b5/svgs/brands/linkedin.svg" />][linkedin]
 
 <br />
+<br />
 
-<img align="left" alt="cartyjim1@gmail.com | Email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />**-> cartyjim1@gmail.com**
+Email : cartyjim1@gmail.com
 
 <br />
 
