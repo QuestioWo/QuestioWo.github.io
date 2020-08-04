@@ -12,16 +12,6 @@
 
 A recreation of the Sigma16 IDE and emulator originally implemented by [John O'Donnel](https://jtod.github.io) in `React.js`
 
-## Connect with me :
-
-[<img align="left" alt="questiowo.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Jim Carty | LinkedIn" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/951a0d011f8c832991750c16136f8e260efa60b5/svgs/brands/linkedin.svg" />][linkedin]
-[<img align="left" alt="QuestioWo | GitHub" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/951a0d011f8c832991750c16136f8e260efa60b5/svgs/brands/github.svg" />][github]
-
-<br />
-
-Email : cartyjim1@gmail.com
-
 ## Languages I have experience with :
 
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" /> 
@@ -47,3 +37,15 @@ Email : cartyjim1@gmail.com
 [ugracing]: https://ugracing.co.uk
 [github]: https://www.guthub.com/QuestioWo
 [linkedin]: https://www.linkedin.com/in/jim-carty-5950261b4
+
+
+
+## Connect with me :
+
+[<img align="left" alt="questiowo.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Jim Carty | LinkedIn" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/951a0d011f8c832991750c16136f8e260efa60b5/svgs/brands/linkedin.svg" />][linkedin]
+[<img align="left" alt="QuestioWo | GitHub" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/951a0d011f8c832991750c16136f8e260efa60b5/svgs/brands/github.svg" />][github]
+
+<br />
+
+Email : cartyjim1@gmail.com
