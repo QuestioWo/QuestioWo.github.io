@@ -59,6 +59,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 [<img align="left" alt="questiowo.github.io" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Jim Carty | LinkedIn" width="50px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/951a0d011f8c832991750c16136f8e260efa60b5/svgs/brands/linkedin.svg" />][linkedin]
 [<img align="left" alt="QuestioWo | GitHub" width="50px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/951a0d011f8c832991750c16136f8e260efa60b5/svgs/brands/github.svg" />][github]
+[<img align="left" alt="QuestioWo | GitLab" width="50px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/951a0d011f8c832991750c16136f8e260efa60b5/svgs/brands/gitlab.svg" />][gitlab]
 
 <br />
 <br />
@@ -71,4 +72,5 @@ cartyjim1@gmail.com
 [ugracing]: https://ugracing.co.uk
 [ugrdv]: https://gitlab.com/QuestioWo/ugrdv
 [github]: https://www.github.com/QuestioWo
+[gitlab]: https://www.gitlab.com/QuestioWo
 [linkedin]: https://www.linkedin.com/in/jim-carty-5950261b4
