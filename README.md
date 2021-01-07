@@ -18,7 +18,7 @@ A project to create software for a driverless racing car. I handle the GitLab an
 
 ### [Buddhabrot][buddhabrot]
 
-A C++ rendering of the [buddhabrot](https://en.wikipedia.org/wiki/Buddhabrot) fractal using the OpenGL library
+A C++ rendering of the [buddhabrot](https://en.wikipedia.org/wiki/Buddhabrot) fractal using the OpenGL and OpenCL libraries
 
 ## I have experience with :
 
