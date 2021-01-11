@@ -1,9 +1,9 @@
 # Hi, I'm Jim - aka [QuestioWo][website] 👋
 
 ## I'm a Student and Developer!
-- 🔭 I’m currently working on an [in browser IDE for Sigma16][sigma17], a research language, and on [software for a driverless racing car][ugracing]!
-- 🌱 I’m currently learning about machine learning AIs!
-- 🥅 2020 Goals: Survive second year of university hahah
+- 🔭 I’m currently working on a [fractal renderer that uses GPU computing][buddhabrot], and on [software for a driverless racing car][ugracing]!
+- 🌱 I’m currently learning about GPU computing and fixed point arithmetic!
+- 🥅 2021 Goals: Learn about new technologies and stay fit
 - ⚡ Fun fact: I've broken my arm on a hammock!
 
 ## Projects :
