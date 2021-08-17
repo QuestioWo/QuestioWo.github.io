@@ -78,7 +78,7 @@ cartyjim1@gmail.com
 [website]: https://questiowo.github.io
 [sigma17]: https://questiowo.github.io/Sigma17
 [daedalus]: https://questiowo.github.io/Daedalus
-[ugrdv]: https://gitlab.com/QuestioWo/ugrdv
+[ugrdv]: https://www.linkedin.com/posts/jim-carty-5950261b4_autonomous-autonomousdriving-software-activity-6826219364124127232-2MVw
 [buddhabrot]: https://questiowo.github.io/buddhabrot
 [github]: https://www.github.com/QuestioWo
 [gitlab]: https://www.gitlab.com/QuestioWo
