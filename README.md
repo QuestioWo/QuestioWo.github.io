@@ -49,11 +49,6 @@ A C++ rendering of the [buddhabrot](https://en.wikipedia.org/wiki/Buddhabrot) fr
 - <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> Terminal
 - <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> TypeScript
 
-
-<br />
-<br />
-<br />
-
 <img align="left" alt="QuestioWo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=QuestioWo&show_icons=true&hide_border=true" />
 
 <br />
