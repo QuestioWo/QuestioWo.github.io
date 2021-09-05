@@ -55,10 +55,14 @@ A C++ rendering of the [buddhabrot](https://en.wikipedia.org/wiki/Buddhabrot) fr
 [<img align="center" alt="Jim Carty | LinkedIn" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/951a0d011f8c832991750c16136f8e260efa60b5/svgs/brands/linkedin.svg" />][linkedin]
 [<img align="center" alt="QuestioWo | GitLab" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/951a0d011f8c832991750c16136f8e260efa60b5/svgs/brands/gitlab.svg" />][gitlab]
 
-[<img align="left" alt="Jim Carty | Email" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/regular/envelope.svg" />][email]: cartyjim1@gmail.com
+[<img align="left" alt="Jim Carty | Email" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/regular/envelope.svg" />][email]: [cartyjim1@gmail.com][email]
+
+## Recent GitHub Statistics
+
+<img align="centre" alt="QuestioWo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=QuestioWo&show_icons=true&hide_border=true" />
 
 [email]: mailto:cartyjim1@gmail.com
-[website]: https://questiowo.github.io
+[website]: https://github.com/QuestioWo
 [sigma17]: https://questiowo.github.io/Sigma17
 [daedalus]: https://questiowo.github.io/Daedalus
 [ugrdv]: https://www.linkedin.com/posts/jim-carty-5950261b4_autonomous-autonomousdriving-software-activity-6826219364124127232-2MVw
