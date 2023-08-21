@@ -24,7 +24,7 @@ A project to create software for a driverless racing car. I handle the GitLab an
 
 A C++ rendering of the [buddhabrot](https://en.wikipedia.org/wiki/Buddhabrot) fractal using the OpenGL and OpenCL libraries
 
-### [Application of Perceiver Io Network to Abdominal Multi-Class, Multi-Modality Medical Image Segmentation](https://github.com/l4_amos_project)
+### [Application of Perceiver Io Network to Abdominal Multi-Class, Multi-Modality Medical Image Segmentation](https://github.com/questiowo/l4_amos_project)
 
 My dissertation project novelly applies the Perceiver IO network architecture to the domain of medical image segmentation. Supervised by Dr Ali Gooya, graded as an A5, granting me a First Class Honours qualification as a Bachelor of Computer Science with a specialisation in Data Management.  
 
