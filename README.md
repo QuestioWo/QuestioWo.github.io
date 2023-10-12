@@ -28,6 +28,10 @@ A C++ rendering of the [buddhabrot](https://en.wikipedia.org/wiki/Buddhabrot) fr
 
 My dissertation project novelly applies the Perceiver IO network architecture to the domain of medical image segmentation. Supervised by Dr Ali Gooya, graded as an A5, granting me a First Class Honours qualification as a Bachelor of Computer Science with a specialisation in Data Management.  
 
+### [Cat Explorer][cat-explorer]
+
+A basic Angular project to learn the framework for my internship at SAS after graduating. Makes use of publicly available APIs to show facts about cats and allow you to collect cats with randomly generated stats to build the strongest and loudest roster
+
 ## I have experience with :
 
 - <img style="padding:0;margin:0 20px 0 0" align="left" alt="Bash" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" /> Bash
@@ -74,3 +78,4 @@ My dissertation project novelly applies the Perceiver IO network architecture to
 [github]: https://www.github.com/QuestioWo
 [gitlab]: https://www.gitlab.com/QuestioWo
 [linkedin]: https://www.linkedin.com/in/jim-carty-5950261b4
+[cat-explorer]: https://questiowo.github.io/cat-explorer
