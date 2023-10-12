@@ -1,9 +1,9 @@
 # Hi, I'm Jim - aka [QuestioWo][website] 👋
 
-## I'm a Student and Developer!
-- 🔭 I’m currently working on [software for a driverless racing car][ugrdv]!
-- 🌱 I’m currently learning about the CUDA framework and deep learning methods!
-- 🥅 2022 Goals: Learn about new technologies and stay fit!
+## I'm a Developer and First-Class Honours Graduate!
+- 🔭 I’m currently working at SAS building solution extensions for their LEI team!
+- 🌱 I’m currently learning about Angular and the SAS workplace!
+- 🥅 2023 Goals: Learn about new technologies and get back in shape!
 - ⚡ Fun fact: I've broken my arm on a hammock!
 
 ## Projects :
