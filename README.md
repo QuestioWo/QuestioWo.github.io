@@ -1,8 +1,8 @@
 # Hi, I'm Jim - aka [QuestioWo][website] 👋
 
-## I'm a Developer and First-Class Honours Graduate!
-- 🔭 I’m currently working at SAS building solution extensions for their LEI team!
-- 🌱 I’m currently learning about Angular and the SAS workplace!
+## I'm a Software Developer 1 at Amazon and First-Class Honours Graduate!
+- 🔭 I’m currently working at Amazon working on their Sponsored Display advertising auction bidder!
+- 🌱 I’m currently learning about Amazon and how they write code to handle up to 30 Million API calls a second!
 - 🥅 2023 Goals: Learn about new technologies and get back in shape!
 - ⚡ Fun fact: I've broken my arm on a hammock!
 
